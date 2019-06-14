@@ -29,6 +29,15 @@ Person Name Disambiguation for Social Network Construction](https://www.aclweb.o
 >> One of the best ways to find image similarity is by using a siamese network with a triplet loss function (facenet, loc2vec, object tracking, etc), this is done by training the model on an image(anchor) and a similar/augmented image(positive) and dissimilar image (negative) and the loss function attempts to maximize the distance between the anchor and negative image.
 
 - #### Structured Data: 
->> A wide range of companies create and use embedding to understand the latent features of their subject of interest (pins, House, stores, products, [industry2vec](https://github.com/ing-bank/industry2vec/), etc) by using similarity/proximity measurement
+>> A wide range of companies create and use embedding to understand the latent features of their subject of interest (pins, House, stores, products, [industry2vec](https://github.com/ing-bank/industry2vec/), etc) by using similarity/proximity measurement 
+
+## Data
+- Addresses: OpenAddresses
+- Maps: OpenStreetMap(OSM)
+- Places: OpenStreetMap(OSM)
+- Satelite data:
+- Demographic: Census Bureau(decennial census, American Community Survey (ACS),)
+- Enviromental: 
+- Other: [osmn](https://geoffboeing.com/2016/11/osmnx-python-street-networks/), liquor licenses(state agencies)
 
 ## Methodology 
