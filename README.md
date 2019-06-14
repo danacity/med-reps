@@ -1,4 +1,4 @@
-# Geo2Vec
+# geo2vec
 
 
 ## Understanding location
